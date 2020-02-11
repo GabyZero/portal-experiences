@@ -1,0 +1,1 @@
+Modifier le frustrum à partir des coordonées de l'écran ?
